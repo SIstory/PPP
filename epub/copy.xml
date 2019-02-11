@@ -1,0 +1,1 @@
+<project basedir="." default="dist" name="imagecopy"><target name="dist"><copy toFile="/naslovnica-PPP.jpg" file="naslovnica-PPP.jpg"/><copy toFile="epub/OPS/media/resource1.png" file="./Pictures/PPP-DrzavaSHS-Socialisticni-178-Slika1.png"/></target></project>

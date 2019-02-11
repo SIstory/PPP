@@ -1,0 +1,1187 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Programi slovenskih političnih strank, organizacij in društev v letih 1890–1918</dc:title>
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <meta refines="#title" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator"> Jurij   Perovšek </dc:creator>
+      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">sl</dc:language>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">
+               ISBN 978-978961-6386-76-0 (html)
+            </dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Programi slovenskih političnih strank, organizacij in društev v letih 1890–1918 /  Jurij   Perovšek </dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Inštitut za novejšo zgodovino</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-01-13</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-03-13</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-03-18</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-10-27</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-10-27</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1891-02-03</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1895-11-02</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1902</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1903</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1905</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1905-11-27</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907-03-02</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909-10-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-09-19</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-04-10</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-04-25</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-04-25</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907-01-23</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907-01-24</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907-11-26</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907-11-26</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1893</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1893</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1893</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1893</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1893</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1893</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1893</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909-10-16</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1912-09-20</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1912-09-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1912-10-11</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1912-10-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1912-10-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-05</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-05</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-07</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-07</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-18</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1891-01-30</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1891-01-26</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1891-02-16</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1891-06-05</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1891-06-05</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1895</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1894-12-01</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1995</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1901-07-20</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-06</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-07</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-08</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-09</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-10</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-13</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-16</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-17</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-20</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-20</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-22</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-23</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-03-26</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-08-27</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-11-06</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906-11-17</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907-03-06</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907-03-16</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909-02-03</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1913-04-19</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-01-05</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-02-04</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-02-04</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-02-04</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-02-04</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-02-04</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1900-03-08</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907-01-05</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1906</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1912-10-26</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-31</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-01-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-01-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-01-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-01-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-01-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-01-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-01-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-05-03</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-07-08</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-17</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-18</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-19</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1896-05-09</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1896-09-01</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1896-09-08</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909-11-25</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909-11-25</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1913</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1913-04-16</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1913-04-17</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1919-08-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-28</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-06-06</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-07-29</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-08</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1876-01-08</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1878-07-27</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1878-10-26</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1878-11-09</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1878-11-09</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1878-11-09</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-10-03</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-10-04</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-10-06</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-10-03</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-10-04</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1890-10-06</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1891-01-31</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1897-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1898</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1898-03-18</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1898-03-18</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1898</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1898</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1899</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1899</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1905</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908-10-10</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2014</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-09-15</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1971</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1901</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1904</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1905-01-07</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1905</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1905</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1905</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1905</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1907</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1908-12-19</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1909</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1913</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1913</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1913</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-22</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1917-12-22</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-04-13</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1912-11-01</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-07-06</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-09-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-26</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-10-26</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-22</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1998</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1998</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-22</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-14</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1998</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-23</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-21</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1998</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1998</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-29</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1988</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1918-11-25</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">1964</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2016</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
+      <meta name="cover" content="cover-image"/>
+      <meta property="dcterms:modified">2018-01-22T07:08:08Z</meta>
+   </metadata>
+   <manifest>
+      <item href="naslovnica-PPP.jpg"
+            id="cover-image"
+            properties="cover-image"
+            media-type="image/jpeg"/>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.html"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.html"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="epubtoc.html"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
+      <item href="cip.html" id="cip" media-type="application/xhtml+xml"/>
+      <item href="titleType.html"
+            id="titleType"
+            media-type="application/xhtml+xml"/>
+      <item href="preface.html"
+            media-type="application/xhtml+xml"
+            id="section1"/>
+      <item href="part01.html" media-type="application/xhtml+xml" id="section2"/>
+      <item href="part01-part01.html"
+            media-type="application/xhtml+xml"
+            id="section3"/>
+      <item href="doc001.html" media-type="application/xhtml+xml" id="section4"/>
+      <item href="doc002.html" media-type="application/xhtml+xml" id="section7"/>
+      <item href="doc003.html" media-type="application/xhtml+xml" id="section8"/>
+      <item href="doc004.html" media-type="application/xhtml+xml" id="section9"/>
+      <item href="doc005.html"
+            media-type="application/xhtml+xml"
+            id="section10"/>
+      <item href="doc006.html"
+            media-type="application/xhtml+xml"
+            id="section11"/>
+      <item href="doc007.html"
+            media-type="application/xhtml+xml"
+            id="section13"/>
+      <item href="doc008.html"
+            media-type="application/xhtml+xml"
+            id="section14"/>
+      <item href="doc009.html"
+            media-type="application/xhtml+xml"
+            id="section15"/>
+      <item href="doc010.html"
+            media-type="application/xhtml+xml"
+            id="section16"/>
+      <item href="doc011.html"
+            media-type="application/xhtml+xml"
+            id="section17"/>
+      <item href="doc012.html"
+            media-type="application/xhtml+xml"
+            id="section18"/>
+      <item href="doc013.html"
+            media-type="application/xhtml+xml"
+            id="section19"/>
+      <item href="doc014.html"
+            media-type="application/xhtml+xml"
+            id="section20"/>
+      <item href="doc015.html"
+            media-type="application/xhtml+xml"
+            id="section22"/>
+      <item href="doc016.html"
+            media-type="application/xhtml+xml"
+            id="section23"/>
+      <item href="doc017.html"
+            media-type="application/xhtml+xml"
+            id="section25"/>
+      <item href="doc018.html"
+            media-type="application/xhtml+xml"
+            id="section26"/>
+      <item href="doc019.html"
+            media-type="application/xhtml+xml"
+            id="section27"/>
+      <item href="doc020.html"
+            media-type="application/xhtml+xml"
+            id="section28"/>
+      <item href="doc021.html"
+            media-type="application/xhtml+xml"
+            id="section29"/>
+      <item href="doc022.html"
+            media-type="application/xhtml+xml"
+            id="section30"/>
+      <item href="doc023.html"
+            media-type="application/xhtml+xml"
+            id="section31"/>
+      <item href="doc024.html"
+            media-type="application/xhtml+xml"
+            id="section32"/>
+      <item href="doc025.html"
+            media-type="application/xhtml+xml"
+            id="section33"/>
+      <item href="doc026.html"
+            media-type="application/xhtml+xml"
+            id="section34"/>
+      <item href="part01-part02.html"
+            media-type="application/xhtml+xml"
+            id="section35"/>
+      <item href="doc027.html"
+            media-type="application/xhtml+xml"
+            id="section36"/>
+      <item href="doc028.html"
+            media-type="application/xhtml+xml"
+            id="section39"/>
+      <item href="doc029.html"
+            media-type="application/xhtml+xml"
+            id="section40"/>
+      <item href="part01-part03.html"
+            media-type="application/xhtml+xml"
+            id="section41"/>
+      <item href="doc030.html"
+            media-type="application/xhtml+xml"
+            id="section42"/>
+      <item href="doc031.html"
+            media-type="application/xhtml+xml"
+            id="section49"/>
+      <item href="doc032.html"
+            media-type="application/xhtml+xml"
+            id="section50"/>
+      <item href="part01-part04.html"
+            media-type="application/xhtml+xml"
+            id="section51"/>
+      <item href="doc033.html"
+            media-type="application/xhtml+xml"
+            id="section52"/>
+      <item href="doc034.html"
+            media-type="application/xhtml+xml"
+            id="section58"/>
+      <item href="part01-part05.html"
+            media-type="application/xhtml+xml"
+            id="section59"/>
+      <item href="doc035.html"
+            media-type="application/xhtml+xml"
+            id="section60"/>
+      <item href="doc036.html"
+            media-type="application/xhtml+xml"
+            id="section62"/>
+      <item href="doc037.html"
+            media-type="application/xhtml+xml"
+            id="section85"/>
+      <item href="doc038.html"
+            media-type="application/xhtml+xml"
+            id="section86"/>
+      <item href="doc039.html"
+            media-type="application/xhtml+xml"
+            id="section87"/>
+      <item href="doc040.html"
+            media-type="application/xhtml+xml"
+            id="section88"/>
+      <item href="doc041.html"
+            media-type="application/xhtml+xml"
+            id="section89"/>
+      <item href="doc042.html"
+            media-type="application/xhtml+xml"
+            id="section90"/>
+      <item href="doc043.html"
+            media-type="application/xhtml+xml"
+            id="section91"/>
+      <item href="doc044.html"
+            media-type="application/xhtml+xml"
+            id="section92"/>
+      <item href="part01-part06.html"
+            media-type="application/xhtml+xml"
+            id="section98"/>
+      <item href="doc045.html"
+            media-type="application/xhtml+xml"
+            id="section99"/>
+      <item href="doc046.html"
+            media-type="application/xhtml+xml"
+            id="section100"/>
+      <item href="doc047.html"
+            media-type="application/xhtml+xml"
+            id="section102"/>
+      <item href="doc048.html"
+            media-type="application/xhtml+xml"
+            id="section103"/>
+      <item href="doc049.html"
+            media-type="application/xhtml+xml"
+            id="section104"/>
+      <item href="doc050.html"
+            media-type="application/xhtml+xml"
+            id="section105"/>
+      <item href="doc051.html"
+            media-type="application/xhtml+xml"
+            id="section106"/>
+      <item href="doc052.html"
+            media-type="application/xhtml+xml"
+            id="section107"/>
+      <item href="doc053.html"
+            media-type="application/xhtml+xml"
+            id="section108"/>
+      <item href="doc054.html"
+            media-type="application/xhtml+xml"
+            id="section109"/>
+      <item href="doc055.html"
+            media-type="application/xhtml+xml"
+            id="section110"/>
+      <item href="doc056.html"
+            media-type="application/xhtml+xml"
+            id="section125"/>
+      <item href="doc057.html"
+            media-type="application/xhtml+xml"
+            id="section126"/>
+      <item href="doc058.html"
+            media-type="application/xhtml+xml"
+            id="section127"/>
+      <item href="doc059.html"
+            media-type="application/xhtml+xml"
+            id="section128"/>
+      <item href="doc060.html"
+            media-type="application/xhtml+xml"
+            id="section129"/>
+      <item href="doc061.html"
+            media-type="application/xhtml+xml"
+            id="section130"/>
+      <item href="doc062.html"
+            media-type="application/xhtml+xml"
+            id="section131"/>
+      <item href="doc063.html"
+            media-type="application/xhtml+xml"
+            id="section132"/>
+      <item href="doc064.html"
+            media-type="application/xhtml+xml"
+            id="section133"/>
+      <item href="doc065.html"
+            media-type="application/xhtml+xml"
+            id="section134"/>
+      <item href="doc066.html"
+            media-type="application/xhtml+xml"
+            id="section135"/>
+      <item href="doc067.html"
+            media-type="application/xhtml+xml"
+            id="section136"/>
+      <item href="doc068.html"
+            media-type="application/xhtml+xml"
+            id="section137"/>
+      <item href="doc069.html"
+            media-type="application/xhtml+xml"
+            id="section138"/>
+      <item href="part01-part07.html"
+            media-type="application/xhtml+xml"
+            id="section139"/>
+      <item href="doc070.html"
+            media-type="application/xhtml+xml"
+            id="section140"/>
+      <item href="doc071.html"
+            media-type="application/xhtml+xml"
+            id="section143"/>
+      <item href="part01-part08.html"
+            media-type="application/xhtml+xml"
+            id="section144"/>
+      <item href="doc072.html"
+            media-type="application/xhtml+xml"
+            id="section145"/>
+      <item href="doc073.html"
+            media-type="application/xhtml+xml"
+            id="section146"/>
+      <item href="doc074.html"
+            media-type="application/xhtml+xml"
+            id="section147"/>
+      <item href="doc075.html"
+            media-type="application/xhtml+xml"
+            id="section148"/>
+      <item href="doc076.html"
+            media-type="application/xhtml+xml"
+            id="section149"/>
+      <item href="doc077.html"
+            media-type="application/xhtml+xml"
+            id="section150"/>
+      <item href="doc078.html"
+            media-type="application/xhtml+xml"
+            id="section151"/>
+      <item href="doc079.html"
+            media-type="application/xhtml+xml"
+            id="section152"/>
+      <item href="doc080.html"
+            media-type="application/xhtml+xml"
+            id="section153"/>
+      <item href="doc081.html"
+            media-type="application/xhtml+xml"
+            id="section154"/>
+      <item href="part01-part09.html"
+            media-type="application/xhtml+xml"
+            id="section155"/>
+      <item href="doc082.html"
+            media-type="application/xhtml+xml"
+            id="section156"/>
+      <item href="doc083.html"
+            media-type="application/xhtml+xml"
+            id="section194"/>
+      <item href="doc084.html"
+            media-type="application/xhtml+xml"
+            id="section195"/>
+      <item href="doc085.html"
+            media-type="application/xhtml+xml"
+            id="section196"/>
+      <item href="doc086.html"
+            media-type="application/xhtml+xml"
+            id="section197"/>
+      <item href="doc087.html"
+            media-type="application/xhtml+xml"
+            id="section198"/>
+      <item href="part01-part10.html"
+            media-type="application/xhtml+xml"
+            id="section199"/>
+      <item href="doc088.html"
+            media-type="application/xhtml+xml"
+            id="section200"/>
+      <item href="doc089.html"
+            media-type="application/xhtml+xml"
+            id="section206"/>
+      <item href="doc090.html"
+            media-type="application/xhtml+xml"
+            id="section210"/>
+      <item href="doc091.html"
+            media-type="application/xhtml+xml"
+            id="section211"/>
+      <item href="doc092.html"
+            media-type="application/xhtml+xml"
+            id="section212"/>
+      <item href="doc093.html"
+            media-type="application/xhtml+xml"
+            id="section213"/>
+      <item href="doc094.html"
+            media-type="application/xhtml+xml"
+            id="section215"/>
+      <item href="doc095.html"
+            media-type="application/xhtml+xml"
+            id="section217"/>
+      <item href="doc096.html"
+            media-type="application/xhtml+xml"
+            id="section218"/>
+      <item href="doc097.html"
+            media-type="application/xhtml+xml"
+            id="section219"/>
+      <item href="doc098.html"
+            media-type="application/xhtml+xml"
+            id="section222"/>
+      <item href="part01-part11.html"
+            media-type="application/xhtml+xml"
+            id="section227"/>
+      <item href="doc099.html"
+            media-type="application/xhtml+xml"
+            id="section228"/>
+      <item href="doc100.html"
+            media-type="application/xhtml+xml"
+            id="section229"/>
+      <item href="doc101.html"
+            media-type="application/xhtml+xml"
+            id="section230"/>
+      <item href="doc102.html"
+            media-type="application/xhtml+xml"
+            id="section233"/>
+      <item href="doc103.html"
+            media-type="application/xhtml+xml"
+            id="section234"/>
+      <item href="doc104.html"
+            media-type="application/xhtml+xml"
+            id="section235"/>
+      <item href="doc105.html"
+            media-type="application/xhtml+xml"
+            id="section236"/>
+      <item href="doc106.html"
+            media-type="application/xhtml+xml"
+            id="section237"/>
+      <item href="doc107.html"
+            media-type="application/xhtml+xml"
+            id="section239"/>
+      <item href="doc108.html"
+            media-type="application/xhtml+xml"
+            id="section240"/>
+      <item href="doc109.html"
+            media-type="application/xhtml+xml"
+            id="section241"/>
+      <item href="doc110.html"
+            media-type="application/xhtml+xml"
+            id="section242"/>
+      <item href="doc111.html"
+            media-type="application/xhtml+xml"
+            id="section243"/>
+      <item href="doc112.html"
+            media-type="application/xhtml+xml"
+            id="section244"/>
+      <item href="doc113.html"
+            media-type="application/xhtml+xml"
+            id="section245"/>
+      <item href="doc114.html"
+            media-type="application/xhtml+xml"
+            id="section251"/>
+      <item href="doc115.html"
+            media-type="application/xhtml+xml"
+            id="section252"/>
+      <item href="doc116.html"
+            media-type="application/xhtml+xml"
+            id="section253"/>
+      <item href="doc117.html"
+            media-type="application/xhtml+xml"
+            id="section254"/>
+      <item href="doc118.html"
+            media-type="application/xhtml+xml"
+            id="section271"/>
+      <item href="doc119.html"
+            media-type="application/xhtml+xml"
+            id="section272"/>
+      <item href="doc120.html"
+            media-type="application/xhtml+xml"
+            id="section273"/>
+      <item href="doc121.html"
+            media-type="application/xhtml+xml"
+            id="section274"/>
+      <item href="doc122.html"
+            media-type="application/xhtml+xml"
+            id="section275"/>
+      <item href="doc123.html"
+            media-type="application/xhtml+xml"
+            id="section276"/>
+      <item href="doc124.html"
+            media-type="application/xhtml+xml"
+            id="section280"/>
+      <item href="doc125.html"
+            media-type="application/xhtml+xml"
+            id="section281"/>
+      <item href="doc126.html"
+            media-type="application/xhtml+xml"
+            id="section282"/>
+      <item href="doc127.html"
+            media-type="application/xhtml+xml"
+            id="section283"/>
+      <item href="doc128.html"
+            media-type="application/xhtml+xml"
+            id="section284"/>
+      <item href="doc129.html"
+            media-type="application/xhtml+xml"
+            id="section286"/>
+      <item href="doc130.html"
+            media-type="application/xhtml+xml"
+            id="section291"/>
+      <item href="doc131.html"
+            media-type="application/xhtml+xml"
+            id="section296"/>
+      <item href="doc132.html"
+            media-type="application/xhtml+xml"
+            id="section297"/>
+      <item href="doc133.html"
+            media-type="application/xhtml+xml"
+            id="section298"/>
+      <item href="doc134.html"
+            media-type="application/xhtml+xml"
+            id="section299"/>
+      <item href="doc135.html"
+            media-type="application/xhtml+xml"
+            id="section300"/>
+      <item href="doc136.html"
+            media-type="application/xhtml+xml"
+            id="section301"/>
+      <item href="doc137.html"
+            media-type="application/xhtml+xml"
+            id="section302"/>
+      <item href="doc138.html"
+            media-type="application/xhtml+xml"
+            id="section305"/>
+      <item href="part01-part12.html"
+            media-type="application/xhtml+xml"
+            id="section307"/>
+      <item href="doc139.html"
+            media-type="application/xhtml+xml"
+            id="section308"/>
+      <item href="doc140.html"
+            media-type="application/xhtml+xml"
+            id="section321"/>
+      <item href="doc141.html"
+            media-type="application/xhtml+xml"
+            id="section323"/>
+      <item href="doc142.html"
+            media-type="application/xhtml+xml"
+            id="section325"/>
+      <item href="doc143.html"
+            media-type="application/xhtml+xml"
+            id="section326"/>
+      <item href="doc144.html"
+            media-type="application/xhtml+xml"
+            id="section327"/>
+      <item href="doc145.html"
+            media-type="application/xhtml+xml"
+            id="section328"/>
+      <item href="doc146.html"
+            media-type="application/xhtml+xml"
+            id="section329"/>
+      <item href="doc147.html"
+            media-type="application/xhtml+xml"
+            id="section330"/>
+      <item href="doc148.html"
+            media-type="application/xhtml+xml"
+            id="section331"/>
+      <item href="doc149.html"
+            media-type="application/xhtml+xml"
+            id="section332"/>
+      <item href="doc150.html"
+            media-type="application/xhtml+xml"
+            id="section333"/>
+      <item href="doc151.html"
+            media-type="application/xhtml+xml"
+            id="section334"/>
+      <item href="doc152.html"
+            media-type="application/xhtml+xml"
+            id="section335"/>
+      <item href="doc153.html"
+            media-type="application/xhtml+xml"
+            id="section336"/>
+      <item href="doc154.html"
+            media-type="application/xhtml+xml"
+            id="section337"/>
+      <item href="doc155.html"
+            media-type="application/xhtml+xml"
+            id="section339"/>
+      <item href="doc156.html"
+            media-type="application/xhtml+xml"
+            id="section341"/>
+      <item href="doc157.html"
+            media-type="application/xhtml+xml"
+            id="section343"/>
+      <item href="doc158.html"
+            media-type="application/xhtml+xml"
+            id="section345"/>
+      <item href="doc159.html"
+            media-type="application/xhtml+xml"
+            id="section347"/>
+      <item href="doc160.html"
+            media-type="application/xhtml+xml"
+            id="section349"/>
+      <item href="doc161.html"
+            media-type="application/xhtml+xml"
+            id="section351"/>
+      <item href="doc162.html"
+            media-type="application/xhtml+xml"
+            id="section353"/>
+      <item href="doc163.html"
+            media-type="application/xhtml+xml"
+            id="section355"/>
+      <item href="doc164.html"
+            media-type="application/xhtml+xml"
+            id="section356"/>
+      <item href="doc165.html"
+            media-type="application/xhtml+xml"
+            id="section357"/>
+      <item href="doc166.html"
+            media-type="application/xhtml+xml"
+            id="section358"/>
+      <item href="doc167.html"
+            media-type="application/xhtml+xml"
+            id="section360"/>
+      <item href="doc168.html"
+            media-type="application/xhtml+xml"
+            id="section362"/>
+      <item href="doc169.html"
+            media-type="application/xhtml+xml"
+            id="section363"/>
+      <item href="doc170.html"
+            media-type="application/xhtml+xml"
+            id="section372"/>
+      <item href="doc171.html"
+            media-type="application/xhtml+xml"
+            id="section377"/>
+      <item href="doc172.html"
+            media-type="application/xhtml+xml"
+            id="section378"/>
+      <item href="doc173.html"
+            media-type="application/xhtml+xml"
+            id="section379"/>
+      <item href="part02.html"
+            media-type="application/xhtml+xml"
+            id="section380"/>
+      <item href="part02-part01.html"
+            media-type="application/xhtml+xml"
+            id="section381"/>
+      <item href="doc174.html"
+            media-type="application/xhtml+xml"
+            id="section382"/>
+      <item href="doc175.html"
+            media-type="application/xhtml+xml"
+            id="section385"/>
+      <item href="doc176.html"
+            media-type="application/xhtml+xml"
+            id="section386"/>
+      <item href="doc177.html"
+            media-type="application/xhtml+xml"
+            id="section387"/>
+      <item href="doc178.html"
+            media-type="application/xhtml+xml"
+            id="section388"/>
+      <item href="doc179.html"
+            media-type="application/xhtml+xml"
+            id="section393"/>
+      <item href="part02-part02.html"
+            media-type="application/xhtml+xml"
+            id="section397"/>
+      <item href="doc180.html"
+            media-type="application/xhtml+xml"
+            id="section398"/>
+      <item href="doc181.html"
+            media-type="application/xhtml+xml"
+            id="section399"/>
+      <item href="doc182.html"
+            media-type="application/xhtml+xml"
+            id="section400"/>
+      <item href="doc183.html"
+            media-type="application/xhtml+xml"
+            id="section401"/>
+      <item href="doc184.html"
+            media-type="application/xhtml+xml"
+            id="section402"/>
+      <item href="doc185.html"
+            media-type="application/xhtml+xml"
+            id="section403"/>
+      <item href="doc186.html"
+            media-type="application/xhtml+xml"
+            id="section404"/>
+      <item href="part02-part03.html"
+            media-type="application/xhtml+xml"
+            id="section405"/>
+      <item href="doc187.html"
+            media-type="application/xhtml+xml"
+            id="section406"/>
+      <item href="doc188.html"
+            media-type="application/xhtml+xml"
+            id="section407"/>
+      <item href="doc189.html"
+            media-type="application/xhtml+xml"
+            id="section408"/>
+      <item href="doc190.html"
+            media-type="application/xhtml+xml"
+            id="section409"/>
+      <item href="doc191.html"
+            media-type="application/xhtml+xml"
+            id="section410"/>
+      <item href="doc192.html"
+            media-type="application/xhtml+xml"
+            id="section411"/>
+      <item href="doc193.html"
+            media-type="application/xhtml+xml"
+            id="section412"/>
+      <item href="doc194.html"
+            media-type="application/xhtml+xml"
+            id="section413"/>
+      <item href="doc195.html"
+            media-type="application/xhtml+xml"
+            id="section414"/>
+      <item href="doc196.html"
+            media-type="application/xhtml+xml"
+            id="section421"/>
+      <item href="doc197.html"
+            media-type="application/xhtml+xml"
+            id="section422"/>
+      <item href="part02-part04.html"
+            media-type="application/xhtml+xml"
+            id="section423"/>
+      <item href="doc198.html"
+            media-type="application/xhtml+xml"
+            id="section424"/>
+      <item href="doc199.html"
+            media-type="application/xhtml+xml"
+            id="section425"/>
+      <item href="doc200.html"
+            media-type="application/xhtml+xml"
+            id="section426"/>
+      <item href="doc201.html"
+            media-type="application/xhtml+xml"
+            id="section427"/>
+      <item href="doc202.html"
+            media-type="application/xhtml+xml"
+            id="section428"/>
+      <item href="Pictures/PPP-DrzavaSHS-Socialisticni-178-Slika1.png"
+            id="image-1"
+            media-type="image/png"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="cip" linear="yes"/>
+      <itemref idref="titleType" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section3" linear="yes"/>
+      <itemref idref="section4" linear="yes"/>
+      <itemref idref="section7" linear="yes"/>
+      <itemref idref="section8" linear="yes"/>
+      <itemref idref="section9" linear="yes"/>
+      <itemref idref="section10" linear="yes"/>
+      <itemref idref="section11" linear="yes"/>
+      <itemref idref="section13" linear="yes"/>
+      <itemref idref="section14" linear="yes"/>
+      <itemref idref="section15" linear="yes"/>
+      <itemref idref="section16" linear="yes"/>
+      <itemref idref="section17" linear="yes"/>
+      <itemref idref="section18" linear="yes"/>
+      <itemref idref="section19" linear="yes"/>
+      <itemref idref="section20" linear="yes"/>
+      <itemref idref="section22" linear="yes"/>
+      <itemref idref="section23" linear="yes"/>
+      <itemref idref="section25" linear="yes"/>
+      <itemref idref="section26" linear="yes"/>
+      <itemref idref="section27" linear="yes"/>
+      <itemref idref="section28" linear="yes"/>
+      <itemref idref="section29" linear="yes"/>
+      <itemref idref="section30" linear="yes"/>
+      <itemref idref="section31" linear="yes"/>
+      <itemref idref="section32" linear="yes"/>
+      <itemref idref="section33" linear="yes"/>
+      <itemref idref="section34" linear="yes"/>
+      <itemref idref="section35" linear="yes"/>
+      <itemref idref="section36" linear="yes"/>
+      <itemref idref="section39" linear="yes"/>
+      <itemref idref="section40" linear="yes"/>
+      <itemref idref="section41" linear="yes"/>
+      <itemref idref="section42" linear="yes"/>
+      <itemref idref="section49" linear="yes"/>
+      <itemref idref="section50" linear="yes"/>
+      <itemref idref="section51" linear="yes"/>
+      <itemref idref="section52" linear="yes"/>
+      <itemref idref="section58" linear="yes"/>
+      <itemref idref="section59" linear="yes"/>
+      <itemref idref="section60" linear="yes"/>
+      <itemref idref="section62" linear="yes"/>
+      <itemref idref="section85" linear="yes"/>
+      <itemref idref="section86" linear="yes"/>
+      <itemref idref="section87" linear="yes"/>
+      <itemref idref="section88" linear="yes"/>
+      <itemref idref="section89" linear="yes"/>
+      <itemref idref="section90" linear="yes"/>
+      <itemref idref="section91" linear="yes"/>
+      <itemref idref="section92" linear="yes"/>
+      <itemref idref="section98" linear="yes"/>
+      <itemref idref="section99" linear="yes"/>
+      <itemref idref="section100" linear="yes"/>
+      <itemref idref="section102" linear="yes"/>
+      <itemref idref="section103" linear="yes"/>
+      <itemref idref="section104" linear="yes"/>
+      <itemref idref="section105" linear="yes"/>
+      <itemref idref="section106" linear="yes"/>
+      <itemref idref="section107" linear="yes"/>
+      <itemref idref="section108" linear="yes"/>
+      <itemref idref="section109" linear="yes"/>
+      <itemref idref="section110" linear="yes"/>
+      <itemref idref="section125" linear="yes"/>
+      <itemref idref="section126" linear="yes"/>
+      <itemref idref="section127" linear="yes"/>
+      <itemref idref="section128" linear="yes"/>
+      <itemref idref="section129" linear="yes"/>
+      <itemref idref="section130" linear="yes"/>
+      <itemref idref="section131" linear="yes"/>
+      <itemref idref="section132" linear="yes"/>
+      <itemref idref="section133" linear="yes"/>
+      <itemref idref="section134" linear="yes"/>
+      <itemref idref="section135" linear="yes"/>
+      <itemref idref="section136" linear="yes"/>
+      <itemref idref="section137" linear="yes"/>
+      <itemref idref="section138" linear="yes"/>
+      <itemref idref="section139" linear="yes"/>
+      <itemref idref="section140" linear="yes"/>
+      <itemref idref="section143" linear="yes"/>
+      <itemref idref="section144" linear="yes"/>
+      <itemref idref="section145" linear="yes"/>
+      <itemref idref="section146" linear="yes"/>
+      <itemref idref="section147" linear="yes"/>
+      <itemref idref="section148" linear="yes"/>
+      <itemref idref="section149" linear="yes"/>
+      <itemref idref="section150" linear="yes"/>
+      <itemref idref="section151" linear="yes"/>
+      <itemref idref="section152" linear="yes"/>
+      <itemref idref="section153" linear="yes"/>
+      <itemref idref="section154" linear="yes"/>
+      <itemref idref="section155" linear="yes"/>
+      <itemref idref="section156" linear="yes"/>
+      <itemref idref="section194" linear="yes"/>
+      <itemref idref="section195" linear="yes"/>
+      <itemref idref="section196" linear="yes"/>
+      <itemref idref="section197" linear="yes"/>
+      <itemref idref="section198" linear="yes"/>
+      <itemref idref="section199" linear="yes"/>
+      <itemref idref="section200" linear="yes"/>
+      <itemref idref="section206" linear="yes"/>
+      <itemref idref="section210" linear="yes"/>
+      <itemref idref="section211" linear="yes"/>
+      <itemref idref="section212" linear="yes"/>
+      <itemref idref="section213" linear="yes"/>
+      <itemref idref="section215" linear="yes"/>
+      <itemref idref="section217" linear="yes"/>
+      <itemref idref="section218" linear="yes"/>
+      <itemref idref="section219" linear="yes"/>
+      <itemref idref="section222" linear="yes"/>
+      <itemref idref="section227" linear="yes"/>
+      <itemref idref="section228" linear="yes"/>
+      <itemref idref="section229" linear="yes"/>
+      <itemref idref="section230" linear="yes"/>
+      <itemref idref="section233" linear="yes"/>
+      <itemref idref="section234" linear="yes"/>
+      <itemref idref="section235" linear="yes"/>
+      <itemref idref="section236" linear="yes"/>
+      <itemref idref="section237" linear="yes"/>
+      <itemref idref="section239" linear="yes"/>
+      <itemref idref="section240" linear="yes"/>
+      <itemref idref="section241" linear="yes"/>
+      <itemref idref="section242" linear="yes"/>
+      <itemref idref="section243" linear="yes"/>
+      <itemref idref="section244" linear="yes"/>
+      <itemref idref="section245" linear="yes"/>
+      <itemref idref="section251" linear="yes"/>
+      <itemref idref="section252" linear="yes"/>
+      <itemref idref="section253" linear="yes"/>
+      <itemref idref="section254" linear="yes"/>
+      <itemref idref="section271" linear="yes"/>
+      <itemref idref="section272" linear="yes"/>
+      <itemref idref="section273" linear="yes"/>
+      <itemref idref="section274" linear="yes"/>
+      <itemref idref="section275" linear="yes"/>
+      <itemref idref="section276" linear="yes"/>
+      <itemref idref="section280" linear="yes"/>
+      <itemref idref="section281" linear="yes"/>
+      <itemref idref="section282" linear="yes"/>
+      <itemref idref="section283" linear="yes"/>
+      <itemref idref="section284" linear="yes"/>
+      <itemref idref="section286" linear="yes"/>
+      <itemref idref="section291" linear="yes"/>
+      <itemref idref="section296" linear="yes"/>
+      <itemref idref="section297" linear="yes"/>
+      <itemref idref="section298" linear="yes"/>
+      <itemref idref="section299" linear="yes"/>
+      <itemref idref="section300" linear="yes"/>
+      <itemref idref="section301" linear="yes"/>
+      <itemref idref="section302" linear="yes"/>
+      <itemref idref="section305" linear="yes"/>
+      <itemref idref="section307" linear="yes"/>
+      <itemref idref="section308" linear="yes"/>
+      <itemref idref="section321" linear="yes"/>
+      <itemref idref="section323" linear="yes"/>
+      <itemref idref="section325" linear="yes"/>
+      <itemref idref="section326" linear="yes"/>
+      <itemref idref="section327" linear="yes"/>
+      <itemref idref="section328" linear="yes"/>
+      <itemref idref="section329" linear="yes"/>
+      <itemref idref="section330" linear="yes"/>
+      <itemref idref="section331" linear="yes"/>
+      <itemref idref="section332" linear="yes"/>
+      <itemref idref="section333" linear="yes"/>
+      <itemref idref="section334" linear="yes"/>
+      <itemref idref="section335" linear="yes"/>
+      <itemref idref="section336" linear="yes"/>
+      <itemref idref="section337" linear="yes"/>
+      <itemref idref="section339" linear="yes"/>
+      <itemref idref="section341" linear="yes"/>
+      <itemref idref="section343" linear="yes"/>
+      <itemref idref="section345" linear="yes"/>
+      <itemref idref="section347" linear="yes"/>
+      <itemref idref="section349" linear="yes"/>
+      <itemref idref="section351" linear="yes"/>
+      <itemref idref="section353" linear="yes"/>
+      <itemref idref="section355" linear="yes"/>
+      <itemref idref="section356" linear="yes"/>
+      <itemref idref="section357" linear="yes"/>
+      <itemref idref="section358" linear="yes"/>
+      <itemref idref="section360" linear="yes"/>
+      <itemref idref="section362" linear="yes"/>
+      <itemref idref="section363" linear="yes"/>
+      <itemref idref="section372" linear="yes"/>
+      <itemref idref="section377" linear="yes"/>
+      <itemref idref="section378" linear="yes"/>
+      <itemref idref="section379" linear="yes"/>
+      <itemref idref="section380" linear="yes"/>
+      <itemref idref="section381" linear="yes"/>
+      <itemref idref="section382" linear="yes"/>
+      <itemref idref="section385" linear="yes"/>
+      <itemref idref="section386" linear="yes"/>
+      <itemref idref="section387" linear="yes"/>
+      <itemref idref="section388" linear="yes"/>
+      <itemref idref="section393" linear="yes"/>
+      <itemref idref="section397" linear="yes"/>
+      <itemref idref="section398" linear="yes"/>
+      <itemref idref="section399" linear="yes"/>
+      <itemref idref="section400" linear="yes"/>
+      <itemref idref="section401" linear="yes"/>
+      <itemref idref="section402" linear="yes"/>
+      <itemref idref="section403" linear="yes"/>
+      <itemref idref="section404" linear="yes"/>
+      <itemref idref="section405" linear="yes"/>
+      <itemref idref="section406" linear="yes"/>
+      <itemref idref="section407" linear="yes"/>
+      <itemref idref="section408" linear="yes"/>
+      <itemref idref="section409" linear="yes"/>
+      <itemref idref="section410" linear="yes"/>
+      <itemref idref="section411" linear="yes"/>
+      <itemref idref="section412" linear="yes"/>
+      <itemref idref="section413" linear="yes"/>
+      <itemref idref="section414" linear="yes"/>
+      <itemref idref="section421" linear="yes"/>
+      <itemref idref="section422" linear="yes"/>
+      <itemref idref="section423" linear="yes"/>
+      <itemref idref="section424" linear="yes"/>
+      <itemref idref="section425" linear="yes"/>
+      <itemref idref="section426" linear="yes"/>
+      <itemref idref="section427" linear="yes"/>
+      <itemref idref="section428" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.html" title="Cover"/>
+      <reference type="text" title="Start" href="index.html"/>
+      <reference type="text" title="Kolofon" href="cip.html"/>
+      <reference type="text" title="Kazalo vsebine" href="titleType.html"/>
+      <reference type="text" href="preface.html" title="Uvodno pojasnilo"/>
+      <reference type="text"
+                 href="part01.html"
+                 title="Programi slovenskih političnih strank, organizacij in društev v avstrijski dobi"/>
+      <reference type="text"
+                 href="part02.html"
+                 title="Programi slovenskih političnih strank in načelne programsko politične izjave v času Države Slovencev, Hrvatov in Srbov"/>
+      <reference href="titlepageback.html" type="text" title="About this book"/>
+   </guide>
+</package>
