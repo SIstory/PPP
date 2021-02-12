@@ -56,7 +56,7 @@
    <xsl:param name="path-general">https://www2.sistory.si/publikacije/</xsl:param>
    
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/to.xsl -->
-   <xsl:param name="outputDir">PPP-1890-1918/</xsl:param>
+   <xsl:param name="outputDir">docs/</xsl:param>
    
    <xsl:param name="homeLabel">SIstory</xsl:param>
    <xsl:param name="homeURL">http://hdl.handle.net/11686/36134</xsl:param>
@@ -72,7 +72,7 @@
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/my-html_param.xsl -->
    <xsl:param name="title-bar-sticky">false</xsl:param>
    
-   <xsl:param name="chapterAsSIstoryPublications">true</xsl:param>
+   <xsl:param name="chapterAsSIstoryPublications">false</xsl:param>
    
    <!-- V html/head izpisani metapodatki -->
    <xsl:param name="description">Programi slovenskih političnih strank, organizacij in društev v letih 1890–1918. Pregled k slovenski politični zgodovini</xsl:param>
